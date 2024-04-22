@@ -17,3 +17,8 @@ Fig1. Engaged (Left) and Not Engaged (Right) samples
 
 Whether it be classrooms in Schools or an Ed-Tech platform, keeping the students engaged & connected is a common pain point which they all face.
 Hence, Student Engagement is one of the pain points we are trying to solve. 
+
+# Student Engagement
+
+Student engagement plays a crucial role in education and benefits students, the college, and education partners.
+It empowers students with the ability to acquire and practice the necessary skills to build a successful future. Helps in building better relationships with other students, staff, and faculty and helps the students understand governance within the institution’s education system. As a result, it improves student personality and enhances their skills that are necessary for driving change.
