@@ -35,3 +35,6 @@ It consists of two main classes
 Engaged - 1076 images belonging to 3 different subclasses: confused - 369 images, engaged - 347 images, frustrated - 360 images
 
 Not Engaged - 1044 images belonging to 3 different subclasses: Looking away - 423 images, bored - 358 images, drowsy - 263 images
+
+Please find dataset from the following link
+https://www.kaggle.com/datasets/joyee19/studentengagement
