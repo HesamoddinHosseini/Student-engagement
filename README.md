@@ -18,6 +18,10 @@ Fig1. Engaged (Left) and Not Engaged (Right) samples
 Whether it be classrooms in Schools or an Ed-Tech platform, keeping the students engaged & connected is a common pain point which they all face.
 Hence, Student Engagement is one of the pain points we are trying to solve. 
 
+# The Bigger Picture
+
+The goal of student engagement is said to be achieved when education partners also benefit. With the implementation of student engagement plans, there will be better bonding between education partners. This provides a better understanding of student’s varying needs to boost the campus experience and promotes a more responsive education system.
+
 # Student Engagement
 
 Student engagement plays a crucial role in education and benefits students, the college, and education partners.
