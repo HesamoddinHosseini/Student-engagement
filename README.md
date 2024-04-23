@@ -57,3 +57,8 @@ Fig2. Randomly selected images of student engagement dataset including engaged a
 In this task, we use the CNN model introduced by Nezami et al. (2020), which is shown schematically in Fig 3.
 
 The model contains two convolutional (Conv.) layers, followed by two max pooling (Max.) layers with stride 2, and two fully connected (FC) layers, respectively. A rectified linear unit (ReLU) activation function is applied after all Conv. and FC layers. The last step of the CNN model includes a softmax layer, followed by a cross-entropy loss, which consists of two neurons indicating engaged and disengaged classes. To overcome model over-fitting, we apply a dropout layer after every Conv. and hidden FC layer. Local response normalization is used after the first Conv. layer. 
+
+<img width="966" alt="Screen Shot 2024-04-23 at 7 46 14 am" src="https://github.com/HesamoddinHosseini/Student-engagement/assets/89314766/d93c28dc-3e3f-4d3d-baf4-182bf00f9a87">
+
+Fig3. The architecture of the CNN MODEL. We denote convolutional, max-pooling, and fullyconnected layers with “Conv”, “Max”, and “FC”, respectively
+
