@@ -54,7 +54,7 @@ Fig2. Randomly selected images of student engagement dataset including engaged a
 
 ## Engagement Recognition using Deep Learning:
 
-In this task, we use the CNN model introduced by Nezami et al. (2020), which is shown schematically in Fig 3.
+For this task, we have used developed CNN model introduced by Nezami et al. (2020), which is shown schematically in Fig 3.
 
 The model contains two convolutional (Conv.) layers, followed by two max pooling (Max.) layers with stride 2, and two fully connected (FC) layers, respectively. A rectified linear unit (ReLU) activation function is applied after all Conv. and FC layers. The last step of the CNN model includes a softmax layer, followed by a cross-entropy loss, which consists of two neurons indicating engaged and disengaged classes. To overcome model over-fitting, we apply a dropout layer after every Conv. and hidden FC layer. 
 
