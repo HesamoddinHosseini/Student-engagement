@@ -30,14 +30,11 @@ It empowers students with the ability to acquire and practice the necessary skil
 
 The goal of student engagement is said to be achieved when education partners also benefit. With the implementation of student engagement plans, there will be better bonding between education partners. This provides a better understanding of student’s varying needs to boost the campus experience and promotes a more responsive education system.
 
-# About Dataset
+# Engagement Recognition from Images
 
-Content
-It consists of two main classes
+Engagement Recognition Dataset:
 
-Engaged - 1076 images belonging to 3 different subclasses: confused - 369 images, engaged - 347 images, frustrated - 360 images
-
-Not Engaged - 1044 images belonging to 3 different subclasses: Looking away - 423 images, bored - 358 images, drowsy - 263 images
+Data Collection To recognize engagement from face images, we use student engagement dataset. This dataset consists of two main classess: (1) Engaged - 1076 images belonging to 3 different subclasses: confused - 369 images, engaged - 347 images, frustrated - 360 images (2) Not Engaged - 1044 images belonging to 3 different subclasses: Looking away - 423 images, bored - 358 images, drowsy - 263 images.
 
 Please find dataset from the following link:
 
