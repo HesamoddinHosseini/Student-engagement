@@ -32,7 +32,7 @@ The goal of student engagement is said to be achieved when education partners al
 
 # Engagement Recognition from Images
 
-Engagement Recognition Dataset:
+## Engagement Recognition Dataset:
 
 Data Collection To recognize engagement from face images, we use student engagement dataset. This dataset consists of two main classess: (1) Engaged - 1076 images belonging to 3 different subclasses: confused - 369 images, engaged - 347 images, frustrated - 360 images (2) Not Engaged - 1044 images belonging to 3 different subclasses: Looking away - 423 images, bored - 358 images, drowsy - 263 images.
 
