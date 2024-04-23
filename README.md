@@ -49,4 +49,4 @@ Dataset Samples:
 <img width="673" alt="Screen Shot 2024-04-23 at 7 20 20 am" src="https://github.com/HesamoddinHosseini/Student-engagement/assets/89314766/53234d2a-0891-46d4-89d1-943a23b1ac7f">
 
 
-Fig2. Randomly selected images of student engagement dataset including engaged and Not Engaged
+Fig2. Randomly selected images of student engagement dataset including engaged and not Engaged
