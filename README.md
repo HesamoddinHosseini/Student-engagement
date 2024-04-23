@@ -68,3 +68,6 @@ Fig3. The architecture of the CNN MODEL. We denote convolutional, max-pooling, a
 1. Mohamad Nezami, O., Dras, M., Hamey, L., Richards, D., Wan, S., Paris, C. (2020). Automatic Recognition of Student Engagement Using Deep Learning and Facial Expression. In: Brefeld, U., Fromont, E., Hotho, A., Knobbe, A., Maathuis, M., Robardet, C. (eds) Machine Learning and Knowledge Discovery in Databases. ECML PKDD 2019. Lecture Notes in Computer Science(), vol 11908. Springer, Cham. https://doi.org/10.1007/978-3-030-46133-1_17
 
 2. https://www.kaggle.com/datasets/joyee19/studentengagement/data
+
+##
+Hesamoddin Hosseini
